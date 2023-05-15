@@ -1,5 +1,5 @@
 ### Hi there, I'm Prashasti Gupta👋
-- 🔭 I’m currently working on a new project
+<!-- - 🔭 I’m currently working on a new project -->
 - 🌱 I’m currently in my 2nd year!
 - 😄 Pronouns: she/her
 <!--
