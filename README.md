@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashasti Gupta👋
 <!-- - 🔭 I’m currently working on a new project -->
-- 🌱 I’m currently in my 2nd year!
+- 🌱 I’m currently in my 3rd year!
 - 😄 Pronouns: she/her
 <!--
 **prashasti-7/prashasti-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
